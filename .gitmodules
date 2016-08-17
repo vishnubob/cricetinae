@@ -1,0 +1,6 @@
+[submodule "deps/WiringPi"]
+	path = deps/WiringPi
+	url = https://github.com/WiringPi/WiringPi.git
+[submodule "deps/libwheel"]
+	path = deps/libwheel
+	url = https://github.com/vxmdesign/libwheel.git

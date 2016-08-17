@@ -1,0 +1,10 @@
+build/
+dist/
+env/
+sctk.egg-info/
+tarpit/
+*.pyc
+tags
+.*DS*
+*egg-info*
+.*.sw?
