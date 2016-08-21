@@ -7,6 +7,7 @@ popd >/dev/null
 
 tempdir=$(mktemp -d)
 (
+    cd $tempdir
     if test -z "$(which git-buildpackage)"; then
         sudo apt-get install git-buildpackage
     fi

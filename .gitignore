@@ -1,6 +1,7 @@
 build/
 dist/
 env/
+debs/*.deb
 sctk.egg-info/
 tarpit/
 *.pyc

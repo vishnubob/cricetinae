@@ -1,0 +1,2 @@
+git+https://github.com/vishnubob/libwheel.git#egg=libwheel
+git+https://github.com/vishnubob/python-midi.git#egg=midi
